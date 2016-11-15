@@ -7,10 +7,10 @@
     "wave": 0,
     "released": true,
     "contents": {
-      "ships": [
-        "X-Wing",
-        "TIE Fighter"
-      ],
+      "ships": {
+        "X-Wing": 1,
+        "TIE Fighter": 2
+      },
       "pilots": {
         "2": 1,
         "3": 1,
@@ -41,9 +41,9 @@
     "wave": 1,
     "released": true,
     "contents": {
-      "ships": [
-        "X-Wing"
-      ],
+      "ships": {
+        "X-Wing": "1"
+      },
       "pilots": {
         "0": 1,
         "1": 1,
@@ -68,9 +68,9 @@
     "wave": 1,
     "released": true,
     "contents": {
-      "ships": [
-        "Y-Wing"
-      ],
+      "ships": {
+        "Y-Wing": 1
+      },
       "pilots": {
         "6": 1,
         "7": 1,
@@ -94,9 +94,9 @@
     "wave": 1,
     "released": true,
     "contents": {
-      "ships": [
-        "TIE Fighter"
-      ],
+      "ships": {
+        "TIE Fighter": 1
+      },
       "pilots": {
         "10": 1,
         "11": 1,
@@ -120,9 +120,9 @@
     "wave": 1,
     "released": true,
     "contents": {
-      "ships": [
-        "TIE Advanced"
-      ],
+      "ships": {
+        "TIE Advanced": 1
+      },
       "pilots": {
         "19": 1,
         "20": 1,
@@ -146,9 +146,9 @@
     "wave": 2,
     "released": true,
     "contents": {
-      "ships": [
-        "TIE Interceptor"
-      ],
+      "ships": {
+        "TIE Interceptor": 1
+      },
       "pilots": {
         "23": 1,
         "24": 1,
@@ -172,9 +172,9 @@
     "wave": 2,
     "released": true,
     "contents": {
-      "ships": [
-        "A-Wing"
-      ],
+      "ships": {
+        "A-Wing": 1
+      },
       "pilots": {
         "29": 1,
         "30": 1,
@@ -199,9 +199,9 @@
     "wave": 2,
     "released": true,
     "contents": {
-      "ships": [
-        "YT-1300"
-      ],
+      "ships": {
+        "YT-1300": 1
+      },
       "pilots": {
         "33": 1,
         "34": 1,
@@ -233,9 +233,9 @@
     "wave": 2,
     "released": true,
     "contents": {
-      "ships": [
-        "Firespray-31"
-      ],
+      "ships": {
+        "Firespray-31": 1
+      },
       "pilots": {
         "37": 1,
         "38": 1,
@@ -267,9 +267,9 @@
     "wave": 3,
     "released": true,
     "contents": {
-      "ships": [
-        "B-Wing"
-      ],
+      "ships": {
+        "B-Wing": 1
+      },
       "pilots": {
         "41": 1,
         "42": 1,
@@ -294,9 +294,9 @@
     "wave": 3,
     "released": true,
     "contents": {
-      "ships": [
-        "HWK-290"
-      ],
+      "ships": {
+        "HWK-290": 1
+      },
       "pilots": {
         "45": 1,
         "46": 1,
@@ -322,9 +322,9 @@
     "wave": 3,
     "released": true,
     "contents": {
-      "ships": [
-        "TIE Bomber"
-      ],
+      "ships": {
+        "TIE Bomber": 1
+      },
       "pilots": {
         "49": 1,
         "50": 1,
@@ -349,9 +349,9 @@
     "wave": 3,
     "released": true,
     "contents": {
-      "ships": [
-        "Lambda-Class Shuttle"
-      ],
+      "ships": {
+        "Lambda-Class Shuttle": 1
+      },
       "pilots": {
         "53": 1,
         "54": 1,
@@ -382,9 +382,9 @@
     "wave": "Iconic Starships",
     "released": true,
     "contents": {
-      "ships": [
-        "TIE Interceptor"
-      ],
+      "ships": {
+        "TIE Interceptor": 2
+      },
       "pilots": {
         "25": 2,
         "57": 1,
@@ -412,9 +412,9 @@
     "wave": 4,
     "released": true,
     "contents": {
-      "ships": [
-        "Z-95 Headhunter"
-      ],
+      "ships": {
+        "Z-95 Headhunter": 1
+      },
       "pilots": {
         "63": 1,
         "64": 1,
@@ -439,9 +439,9 @@
     "wave": 4,
     "released": true,
     "contents": {
-      "ships": [
-        "TIE Defender"
-      ],
+      "ships": {
+        "TIE Defender": 1
+      },
       "pilots": {
         "67": 1,
         "68": 1,
@@ -466,9 +466,9 @@
     "wave": 4,
     "released": true,
     "contents": {
-      "ships": [
-        "E-Wing"
-      ],
+      "ships": {
+        "E-Wing": 1
+      },
       "pilots": {
         "71": 1,
         "72": 1,
@@ -493,9 +493,9 @@
     "wave": 4,
     "released": true,
     "contents": {
-      "ships": [
-        "TIE Phantom"
-      ],
+      "ships": {
+        "TIE Phantom": 1
+      },
       "pilots": {
         "75": 1,
         "76": 1,
@@ -520,10 +520,10 @@
     "wave": "Iconic Starships",
     "released": true,
     "contents": {
-      "ships": [
-        "A-Wing",
-        "B-Wing"
-      ],
+      "ships": {
+        "A-Wing": 1,
+        "B-Wing": 1
+      },
       "pilots": {
         "31": 1,
         "32": 1,
@@ -554,10 +554,10 @@
     "wave": "Iconic Starships",
     "released": true,
     "contents": {
-      "ships": [
-        "CR90 Corvette (Fore)",
-        "CR90 Corvette (Aft)"
-      ],
+      "ships": {
+        "CR90 Corvette (Fore)": 1,
+        "CR90 Corvette (Aft)": 1
+      },
       "pilots": {
         "79": 1,
         "80": 1
@@ -594,10 +594,10 @@
     "wave": "Iconic Starships",
     "released": true,
     "contents": {
-      "ships": [
-        "X-Wing",
-        "GR-75 Medium Transport"
-      ],
+      "ships": {
+        "X-Wing": 1,
+        "GR-75 Medium Transport": 1
+      },
       "pilots": {
         "2": 1,
         "3": 1,
@@ -642,9 +642,9 @@
     "wave": 5,
     "released": true,
     "contents": {
-      "ships": [
-        "YT-2400"
-      ],
+      "ships": {
+        "YT-2400": 1
+      },
       "pilots": {
         "89": 1,
         "92": 1,
@@ -676,9 +676,9 @@
     "wave": 5,
     "released": true,
     "contents": {
-      "ships": [
-        "VT-49 Decimator"
-      ],
+      "ships": {
+        "VT-49 Decimator": 1
+      },
       "pilots": {
         "90": 1,
         "91": 1,
@@ -708,10 +708,10 @@
     "wave": 6,
     "released": true,
     "contents": {
-      "ships": [
-        "Y-Wing",
-        "Z-95 Headhunter"
-      ],
+      "ships": {
+        "Y-Wing": 1,
+        "Z-95 Headhunter": 2
+      },
       "pilots": {
         "97": 1,
         "99": 1,
@@ -756,9 +756,9 @@
     "wave": 6,
     "released": true,
     "contents": {
-      "ships": [
-        "StarViper"
-      ],
+      "ships": {
+        "StarViper": 1
+      },
       "pilots": {
         "98": 1,
         "117": 1,
@@ -786,9 +786,9 @@
     "wave": 6,
     "released": true,
     "contents": {
-      "ships": [
-        "M3-A Interceptor"
-      ],
+      "ships": {
+        "M3-A Interceptor": 1
+      },
       "pilots": {
         "102": 1,
         "121": 1,
@@ -813,9 +813,9 @@
     "wave": 6,
     "released": true,
     "contents": {
-      "ships": [
-        "Aggressor"
-      ],
+      "ships": {
+        "Aggressor": 1
+      },
       "pilots": {
         "103": 1,
         "104": 1,
@@ -845,11 +845,11 @@
     "wave": "Iconic Starships",
     "released": true,
     "contents": {
-      "ships": [
-        "Raider-class Corvette (Fore)",
-        "Raider-class Corvette (Aft)",
-        "TIE Advanced"
-      ],
+      "ships": {
+        "Raider-class Corvette (Fore)": 1,
+        "Raider-class Corvette (Aft)": 1,
+        "TIE Advanced": 1
+      },
       "pilots": {
         "20": 1,
         "21": 1,
@@ -894,9 +894,9 @@
     "wave": 7,
     "released": true,
     "contents": {
-      "ships": [
-        "YV-666"
-      ],
+      "ships": {
+        "YV-666": 1
+      },
       "pilots": {
         "131": 1,
         "132": 1,
@@ -929,9 +929,9 @@
     "wave": 7,
     "released": true,
     "contents": {
-      "ships": [
-        "Kihraxz Fighter"
-      ],
+      "ships": {
+        "Kihraxz Fighter": 1
+      },
       "pilots": {
         "135": 1,
         "136": 1,
@@ -956,9 +956,9 @@
     "wave": 7,
     "released": true,
     "contents": {
-      "ships": [
-        "K-Wing"
-      ],
+      "ships": {
+        "K-Wing": 1
+      },
       "pilots": {
         "139": 1,
         "140": 1,
@@ -986,9 +986,9 @@
     "wave": 7,
     "released": true,
     "contents": {
-      "ships": [
-        "TIE Punisher"
-      ],
+      "ships": {
+        "TIE Punisher": 1
+      },
       "pilots": {
         "142": 1,
         "143": 1,
@@ -1016,10 +1016,10 @@
     "wave": 0,
     "released": true,
     "contents": {
-      "ships": [
-        "T-70 X-Wing",
-        "TIE/fo Fighter"
-      ],
+      "ships": {
+        "T-70 X-Wing": 1,
+        "TIE/fo Fighter": 2
+      },
       "pilots": {
         "148": 1,
         "149": 2,
@@ -1050,9 +1050,9 @@
     "wave": 8,
     "released": true,
     "contents": {
-      "ships": [
-        "T-70 X-Wing"
-      ],
+      "ships": {
+        "T-70 X-Wing": 1
+      },
       "pilots": {
         "155": 1,
         "157": 1,
@@ -1077,9 +1077,9 @@
     "wave": 8,
     "released": true,
     "contents": {
-      "ships": [
-        "TIE/fo Fighter"
-      ],
+      "ships": {
+        "TIE/fo Fighter": 1
+      },
       "pilots": {
         "149": 1,
         "151": 1,
@@ -1102,9 +1102,9 @@
     "thumb": "sources/punishing-one-expansion-pack-thumb.jpg",
     "id": 35,
     "contents": {
-      "ships": [
-        "JumpMaster 5000"
-      ],
+      "ships": {
+        "JumpMaster 5000": 1
+      },
       "pilots": {
         "161": 1,
         "183": 1,
@@ -1135,9 +1135,9 @@
     "thumb": "sources/mist-hunter-expansion-pack-thumb.jpg",
     "id": 36,
     "contents": {
-      "ships": [
-        "G-1A Starfighter"
-      ],
+      "ships": {
+        "G-1A Starfighter": 1
+      },
       "pilots": {
         "162": 1,
         "182": 1,
@@ -1165,9 +1165,9 @@
     "thumb": "sources/inquisitors-tie-expansion-pack-thumb.jpg",
     "id": 37,
     "contents": {
-      "ships": [
-        "TIE Adv. Prototype"
-      ],
+      "ships": {
+        "TIE Adv. Prototype": 1
+      },
       "pilots": {
         "163": 1,
         "180": 1,
@@ -1192,10 +1192,10 @@
     "thumb": "sources/ghost-expansion-pack-thumb.jpg",
     "id": 38,
     "contents": {
-      "ships": [
-        "Attack Shuttle",
-        "VCX-100"
-      ],
+      "ships": {
+        "Attack Shuttle": 1,
+        "VCX-100": 1
+      },
       "pilots": {
         "160": 1,
         "169": 1,
@@ -1234,10 +1234,10 @@
     "thumb": "sources/imperial-assault-carrier-expansion-pack-thumb.jpg",
     "id": 39,
     "contents": {
-      "ships": [
-        "Gozanti-Class Cruiser",
-        "TIE Fighter"
-      ],
+      "ships": {
+        "Gozanti-Class Cruiser": 1,
+        "TIE Fighter": 2
+      },
       "pilots": {
         "10": 2,
         "11": 2,
@@ -1281,10 +1281,10 @@
     "thumb": "sources/imperial-veterans-expansion-pack-thumb.jpg",
     "id": 40,
     "contents": {
-      "ships": [
-        "TIE Bomber",
-        "TIE Defender"
-      ],
+      "ships": {
+        "TIE Bomber": 1,
+        "TIE Defender": 1
+      },
       "pilots": {
         "177": 1,
         "178": 2,
@@ -1312,10 +1312,10 @@
     "wave": "Iconic Starships",
     "name": "Heroes of the Resistance Expansion Pack",
     "contents": {
-      "ships": [
-        "T-70 X-Wing",
-        "YT-1300"
-      ],
+      "ships": {
+        "T-70 X-Wing": 1,
+        "YT-1300": 1
+      },
       "pilots": {
         "155": 1,
         "158": 1,
@@ -1354,9 +1354,9 @@
     "name": "ARC-170 Expansion Pack",
     "wave": 9,
     "contents": {
-      "ships": [
-        "ARC-170"
-      ],
+      "ships": {
+        "ARC-170": 1
+      },
       "pilots": {
         "196": 1,
         "201": 1,
@@ -1383,9 +1383,9 @@
     "name": "Special Forces TIE Expansion Pack",
     "wave": 9,
     "contents": {
-      "ships": [
-        "TIE/sf Fighter"
-      ],
+      "ships": {
+        "TIE/sf Fighter": 1
+      },
       "pilots": {
         "199": 1,
         "204": 1,
@@ -1408,9 +1408,9 @@
     "name": "Protectorate Starfighter Expansion Pack",
     "wave": 9,
     "contents": {
-      "ships": [
-        "Protectorate Starfighter"
-      ],
+      "ships": {
+        "Protectorate Starfighter": 1
+      },
       "pilots": {
         "197": 1,
         "206": 1,
@@ -1434,9 +1434,9 @@
     "name": "Shadow Caster Expansion Pack",
     "wave": 9,
     "contents": {
-      "ships": [
-        "Lancer-class Pursuit Craft"
-      ],
+      "ships": {
+        "Lancer-class Pursuit Craft": 1
+      },
       "pilots": {
         "198": 1,
         "200": 1,
@@ -1466,9 +1466,9 @@
     "name": "Sabine's TIE Fighter Expansion Pack",
     "wave": 10,
     "contents": {
-      "ships": [
-        "TIE Fighter"
-      ],
+      "ships": {
+        "TIE Fighter": 1
+      },
       "pilots": {
         "214": 1,
         "225": 1,
@@ -1495,9 +1495,9 @@
     "wave": 10,
     "id": 47,
     "contents": {
-      "ships": [
-        "Upsilon-class Shuttle"
-      ],
+      "ships": {
+        "Upsilon-class Shuttle": 1
+      },
       "pilots": {
         "215": 1,
         "228": 1,
@@ -1528,9 +1528,9 @@
     "wave": 10,
     "id": 48,
     "contents": {
-      "ships": [
-        "Quadjumper"
-      ],
+      "ships": {
+        "Quadjumper": 1
+      },
       "pilots": {
         "216": 1
       },
@@ -1548,9 +1548,9 @@
     "wave": 10,
     "id": 49,
     "contents": {
-      "ships": [
-        "U-Wing"
-      ],
+      "ships": {
+        "U-Wing": 1
+      },
       "pilots": {
         "217": 1,
         "227": 1
@@ -1575,9 +1575,9 @@
     "id": 50,
     "image": "sources/swx63-product.png",
     "contents": {
-      "ships": [
-        "TIE Striker"
-      ],
+      "ships": {
+        "TIE Striker": 1
+      },
       "pilots": {
         "218": 1
       },
